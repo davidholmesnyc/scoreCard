@@ -1,5 +1,5 @@
 # College Score Card Crawler
-
+<img src="screenshot.png">
 Work in progress <br/>
 
 ## About 
