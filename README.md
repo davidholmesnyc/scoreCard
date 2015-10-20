@@ -8,6 +8,7 @@ Crawls the college score card website and puts all the data into a mongo collect
 ## Requirements
 Node <br/>
 MongoDB <br/>
+API Key from https://api.data.gov/signup/ 
 
 ##Get Started
 clone repo <br/>
